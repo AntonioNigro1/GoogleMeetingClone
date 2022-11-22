@@ -1,0 +1,11 @@
+{
+  "name": "GoogleMeetingClone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AntonioNigro1/GoogleMeetingClone.git",
+  "author": "AntonioNigro1 <toninigro@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  }
+}
